@@ -57,6 +57,12 @@ Antes de esto hice un add, un commit y un push ya que sino no me permitía hacer
 ### Vuelvo al main y compruebo que esté todo en orden
 ![Alt text](Ex2_returntomain.png)
 
+## EJERCICIO 3
+Directorio de trabajo (Working directory): El directorio de trabajo es la ruta física en la que se encuentra tu repositorio. (Ejemplo: C:/Users/Máximo/Desktop/mi-repo-favorito).
 
+Area de preparación (Staging area): El staging area contiene la información y los datos de nuestro repositorio en un momento concreto, previo a subir los cambios al repositorio en la nube.
+Cuando hacemos "git add" estamos colocando nuestros archivos en el staging area antes de hacer commit y push.
 
-
+Repositorio local (Directorio .git): Es nuestro repositorio dentro de la máquina en la que estamos trabajando. 
+Lo contrario sería el repositorio que se encuentra en el servidor de GitHub/GitLab, ya que está en la nube. 
+Cuando hacemos un pull estamos recogiendo lo que hay subido en el servidor para tenerlo en local y poder editarlo. Una vez editado, hacemos un push para subir al servidor los cambios que hemos hecho de manera local. 
