@@ -45,4 +45,18 @@ He hecho un pull del repositorio de la práctica 1 en el directorio correspondie
 
 ### Comprobar el estado de README en el primer commit
 
+Antes de esto hice un add, un commit y un push ya que sino no me permitía hacer el checkout porque se cargaría el README actual que estaba editando.
+![Alt text](ex2_checkout_cat.png)
+
+### Comprobar que estoy en la rama Initial commit
+![Alt text](Ex2_log.png)
+
+### Me muevo al segundo commit
+![Alt text](Ex2_backto2ndcommit.png)
+
+### Vuelvo al main y compruebo que esté todo en orden
+![Alt text](Ex2_returntomain.png)
+
+
+
 
